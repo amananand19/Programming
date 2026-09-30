@@ -26,10 +26,24 @@ Programming
 ├── 📁 DSA
 │   ├── 📁 Code-Journey
 │   │   └── 📁 Arrays
-│   └── 📁 LeetCode Problem Solving
+│   │
+│   └── 📁 LeetCode-Problem-Solving
 │       └── 📁 Arrays
+│
 ├── 📁 SQL
 │   ├── 📁 SQL-Journey
+│   │   └── 📁 Basics
+│   │       ├── 01-CreatingTable.sql
+│   │       ├── 02-Commands.sql
+│   │       ├── 03-Operators.sql
+│   │       ├── 04-Function.sql
+│   │       ├── 05-Constraints.sql
+│   │       ├── 06-Subquery.sql
+│   │       ├── 07-Join.sql
+│   │       ├── 08-View.sql
+│   │       ├── 09-StoreProcedure.sql
+│   │       └── 10-Triggers.sql
+│   │
 │   └── 📁 SQL-LeetCode-Problem-Solving
 │
 ├── 📁 Python
